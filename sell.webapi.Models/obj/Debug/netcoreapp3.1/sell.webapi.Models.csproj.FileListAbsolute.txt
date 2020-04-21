@@ -1,0 +1,7 @@
+D:\Visual Studio\sell.webapi\sell.webapi.Models\bin\Debug\netcoreapp3.1\sell.webapi.Models.deps.json
+D:\Visual Studio\sell.webapi\sell.webapi.Models\bin\Debug\netcoreapp3.1\sell.webapi.Models.dll
+D:\Visual Studio\sell.webapi\sell.webapi.Models\bin\Debug\netcoreapp3.1\sell.webapi.Models.pdb
+D:\Visual Studio\sell.webapi\sell.webapi.Models\obj\Debug\netcoreapp3.1\sell.webapi.Models.AssemblyInfoInputs.cache
+D:\Visual Studio\sell.webapi\sell.webapi.Models\obj\Debug\netcoreapp3.1\sell.webapi.Models.AssemblyInfo.cs
+D:\Visual Studio\sell.webapi\sell.webapi.Models\obj\Debug\netcoreapp3.1\sell.webapi.Models.dll
+D:\Visual Studio\sell.webapi\sell.webapi.Models\obj\Debug\netcoreapp3.1\sell.webapi.Models.pdb

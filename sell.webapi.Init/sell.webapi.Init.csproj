@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="5.1.2" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\sell.webapi.DataBase\sell.webapi.DataBase.csproj" />
+    <ProjectReference Include="..\sell.webapi.IRepository\sell.webapi.IRepository.csproj" />
+    <ProjectReference Include="..\sell.webapi.IServices\sell.webapi.IServices.csproj" />
+    <ProjectReference Include="..\sell.webapi.Repository\sell.webapi.Repository.csproj" />
+    <ProjectReference Include="..\sell.webapi.Services\sell.webapi.Services.csproj" />
+  </ItemGroup>
+
+</Project>

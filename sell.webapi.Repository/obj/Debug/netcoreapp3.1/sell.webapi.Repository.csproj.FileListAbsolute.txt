@@ -1,0 +1,8 @@
+D:\Visual Studio\sell.webapi\sell.webapi.Repository\bin\Debug\netcoreapp3.1\sell.webapi.Repository.deps.json
+D:\Visual Studio\sell.webapi\sell.webapi.Repository\bin\Debug\netcoreapp3.1\sell.webapi.Repository.dll
+D:\Visual Studio\sell.webapi\sell.webapi.Repository\bin\Debug\netcoreapp3.1\sell.webapi.Repository.pdb
+D:\Visual Studio\sell.webapi\sell.webapi.Repository\obj\Debug\netcoreapp3.1\sell.webapi.Repository.csprojAssemblyReference.cache
+D:\Visual Studio\sell.webapi\sell.webapi.Repository\obj\Debug\netcoreapp3.1\sell.webapi.Repository.AssemblyInfoInputs.cache
+D:\Visual Studio\sell.webapi\sell.webapi.Repository\obj\Debug\netcoreapp3.1\sell.webapi.Repository.AssemblyInfo.cs
+D:\Visual Studio\sell.webapi\sell.webapi.Repository\obj\Debug\netcoreapp3.1\sell.webapi.Repository.dll
+D:\Visual Studio\sell.webapi\sell.webapi.Repository\obj\Debug\netcoreapp3.1\sell.webapi.Repository.pdb

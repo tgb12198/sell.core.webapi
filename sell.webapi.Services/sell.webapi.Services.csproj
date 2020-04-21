@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\sell.webapi.Common\sell.webapi.Common.csproj" />
+    <ProjectReference Include="..\sell.webapi.IRepository\sell.webapi.IRepository.csproj" />
+    <ProjectReference Include="..\sell.webapi.IServices\sell.webapi.IServices.csproj" />
+    <ProjectReference Include="..\sell.webapi.Models\sell.webapi.Models.csproj" />
+  </ItemGroup>
+
+</Project>
