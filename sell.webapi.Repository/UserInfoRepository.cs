@@ -32,7 +32,7 @@ namespace sell.webapi.Repository
 
         public UserInfo GetUserInfoById(int userId)
         {
-            var query = string.Format("select user_id, user_name,user_pwd,user_phone,user_gender,user_flag,create_time,update_time where user_id=@userId");
+            var query = string.Format("select user_id, user_name,user_pwd,user_phone,user_gender,user_flag,create_time,update_time from user_info where user_id=@userId");
             var user = _dbContext.SelectFirst<UserInfo>(query, new { UserId = userId });
             return user;
         }

@@ -35,11 +35,11 @@ namespace sell.webapi.DataBase
         /// </summary>
         private DbConnectionFactory()
         {
-            string dbConnection = "server=localhost;database=mydb;User ID=root;Password=z1s!@RlTaKHl;port=3306";//ConfigHelper.Instance.GetConfig("connStr");
+            string dbConnection =ConfigHelper.Instance.GetConfig("connStr:connectionString") ;//;"server=localhost;database=mydb;User ID=root;Password=z1s!@RlTaKHl;port=3306"
             if (!string.IsNullOrEmpty(dbConnection))
             {
                 //接收：数据库类型
-                _dbType = "MySql";//ConfigurationManager.ConnectionStrings["connStr"].ProviderName;
+                _dbType = ConfigHelper.Instance.GetConfig("connStr:providerName");
                 //接收：数据库连接名
                 _connection = dbConnection;
             }

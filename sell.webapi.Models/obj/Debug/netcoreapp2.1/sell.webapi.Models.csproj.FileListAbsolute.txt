@@ -9,3 +9,15 @@ D:\Visual Studio\sell.webapi\sell.webapi.Models\obj\Debug\netcoreapp2.1\sell.web
 D:\Visual Studio\sell.webapi\sell.webapi.Models\bin\Debug\netcoreapp2.1\sell.webapi.Common.dll
 D:\Visual Studio\sell.webapi\sell.webapi.Models\bin\Debug\netcoreapp2.1\sell.webapi.Common.pdb
 D:\Visual Studio\sell.webapi\sell.webapi.Models\obj\Debug\netcoreapp2.1\sell.webapi.Models.csproj.CopyComplete
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.Models\bin\Debug\netcoreapp2.1\sell.webapi.Models.deps.json
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.Models\bin\Debug\netcoreapp2.1\sell.webapi.Models.dll
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.Models\bin\Debug\netcoreapp2.1\sell.webapi.Models.pdb
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.Models\bin\Debug\netcoreapp2.1\sell.webapi.Common.dll
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.Models\bin\Debug\netcoreapp2.1\sell.webapi.Common.pdb
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.Models\obj\Debug\netcoreapp2.1\sell.webapi.Models.csprojAssemblyReference.cache
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.Models\obj\Debug\netcoreapp2.1\sell.webapi.Models.csproj.CoreCompileInputs.cache
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.Models\obj\Debug\netcoreapp2.1\sell.webapi.Models.AssemblyInfoInputs.cache
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.Models\obj\Debug\netcoreapp2.1\sell.webapi.Models.AssemblyInfo.cs
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.Models\obj\Debug\netcoreapp2.1\sell.webapi.Models.csproj.CopyComplete
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.Models\obj\Debug\netcoreapp2.1\sell.webapi.Models.dll
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.Models\obj\Debug\netcoreapp2.1\sell.webapi.Models.pdb

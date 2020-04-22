@@ -17,38 +17,16 @@ namespace sell.webapi.Common.Config
             Config = builder.Build();
         }
 
-        public T GetAppSettings<T>(string key) where T : class, new()
-        {
-            //var appconfig = new ServiceCollection()
-            //.AddOptions()
-            //.Configure<T>(Config.GetSection(key))
-            //.BuildServiceProvider()
-            //.GetService<IOptions<T>>()
-            //.Value;
-            //return appconfig;
-            return null;
-        }
-
         public string GetConfig(string name)
         {
             try
             {
-                foreach (var item in Config.Providers)
-                {
-                    //var conn = item.
-                }
-                
-                return Config.GetSection("connectionString").Value;
+                return Config.GetSection(name).Value;
             }
             catch (Exception ex)
             {
                 throw ex;
             }
         }
-    }
-
-    public class MyServiceProvider
-    {
-        public static IServiceProvider ServiceProvider { get; set; }
     }
 }

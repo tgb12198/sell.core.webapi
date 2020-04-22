@@ -9,3 +9,15 @@ D:\Visual Studio\sell.webapi\sell.webapi.DataBase\bin\Debug\netcoreapp2.1\sell.w
 D:\Visual Studio\sell.webapi\sell.webapi.DataBase\obj\Debug\netcoreapp2.1\sell.webapi.DataBase.csproj.CopyComplete
 D:\Visual Studio\sell.webapi\sell.webapi.DataBase\obj\Debug\netcoreapp2.1\sell.webapi.DataBase.dll
 D:\Visual Studio\sell.webapi\sell.webapi.DataBase\obj\Debug\netcoreapp2.1\sell.webapi.DataBase.pdb
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.DataBase\bin\Debug\netcoreapp2.1\sell.webapi.DataBase.deps.json
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.DataBase\bin\Debug\netcoreapp2.1\sell.webapi.DataBase.dll
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.DataBase\bin\Debug\netcoreapp2.1\sell.webapi.DataBase.pdb
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.DataBase\bin\Debug\netcoreapp2.1\sell.webapi.Common.dll
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.DataBase\bin\Debug\netcoreapp2.1\sell.webapi.Common.pdb
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.DataBase\obj\Debug\netcoreapp2.1\sell.webapi.DataBase.csprojAssemblyReference.cache
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.DataBase\obj\Debug\netcoreapp2.1\sell.webapi.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.DataBase\obj\Debug\netcoreapp2.1\sell.webapi.DataBase.AssemblyInfoInputs.cache
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.DataBase\obj\Debug\netcoreapp2.1\sell.webapi.DataBase.AssemblyInfo.cs
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.DataBase\obj\Debug\netcoreapp2.1\sell.webapi.DataBase.csproj.CopyComplete
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.DataBase\obj\Debug\netcoreapp2.1\sell.webapi.DataBase.dll
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.DataBase\obj\Debug\netcoreapp2.1\sell.webapi.DataBase.pdb
