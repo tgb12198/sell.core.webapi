@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using sell.webapi.Entity.Mapper;
 using sell.webapi.Init.AutoFac;
 
 namespace sell.webapi
@@ -27,6 +28,8 @@ namespace sell.webapi
         public IServiceProvider ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            //注册实体映射
+            ColumnMapper.SetMapper();
             return AutofacRegister.RegisterAutofac(services);
         }
 

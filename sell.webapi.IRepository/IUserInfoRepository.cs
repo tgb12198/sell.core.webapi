@@ -7,7 +7,7 @@ namespace sell.webapi.IRepository
 {
      public interface IUserInfoRepository
     {
-        Task<IEnumerable<UserInfo>> GetAllList();
+        Task<IEnumerable<UserInfoTable>> GetAllList();
 
         #region 增加
         /// <summary>
@@ -15,7 +15,7 @@ namespace sell.webapi.IRepository
         /// </summary>
         /// <param name="userinfo"></param>
         /// <returns></returns>
-        Task<bool> AddUserInfo(UserInfo userinfo);
+        Task<bool> AddUserInfo(UserInfoTable userinfo);
         #endregion
 
 
@@ -25,7 +25,7 @@ namespace sell.webapi.IRepository
         /// </summary>
         /// <param name="userinfo"></param>
         /// <returns></returns>
-        Task<bool> UpdateUserInfo(UserInfo userinfo);
+        Task<bool> UpdateUserInfo(UserInfoTable userinfo);
         #endregion
 
         /// <summary>
@@ -33,7 +33,7 @@ namespace sell.webapi.IRepository
         /// </summary>
         /// <param name="UserId"></param>
         /// <returns></returns>
-        UserInfo GetUserInfoById(int UserId);
+        UserInfoTable GetUserInfoById(int UserId);
 
         /// <summary>
         /// 分页
@@ -41,6 +41,6 @@ namespace sell.webapi.IRepository
         /// <param name="PageIndex"></param>
         /// <param name="PageSize"></param>
         /// <returns></returns>
-        Task<IEnumerable<UserInfo>> GetUserInfoList(int PageIndex, int PageSize);
+        Task<IEnumerable<UserInfoTable>> GetUserInfoList(int PageIndex, int PageSize);
     }
 }

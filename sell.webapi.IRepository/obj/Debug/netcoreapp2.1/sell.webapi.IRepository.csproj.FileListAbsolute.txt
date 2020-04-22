@@ -21,3 +21,5 @@ C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.IRepository\obj\Debug\
 C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.IRepository\obj\Debug\netcoreapp2.1\sell.webapi.IRepository.csproj.CopyComplete
 C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.IRepository\obj\Debug\netcoreapp2.1\sell.webapi.IRepository.dll
 C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.IRepository\obj\Debug\netcoreapp2.1\sell.webapi.IRepository.pdb
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.IRepository\bin\Debug\netcoreapp2.1\sell.webapi.Common.dll
+C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.IRepository\bin\Debug\netcoreapp2.1\sell.webapi.Common.pdb

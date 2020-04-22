@@ -8,4 +8,8 @@
     <PackageReference Include="Dapper.Contrib" Version="2.0.35" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\sell.webapi.Common\sell.webapi.Common.csproj" />
+  </ItemGroup>
+
 </Project>

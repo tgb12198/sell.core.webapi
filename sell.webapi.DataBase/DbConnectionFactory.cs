@@ -1,7 +1,5 @@
 ﻿using MySql.Data.MySqlClient;
 using sell.webapi.Common.Config;
-using System;
-using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 
@@ -14,6 +12,12 @@ namespace sell.webapi.DataBase
 
         //数据库连接名
         private static string _connection = string.Empty;
+
+        //连接字符串
+        private const string CONNECTION_KEY = "DataBase:connectionString";
+
+        //数据库类型
+        private const string PRIVIDERNAME_KEY = "DataBase:providerName";
 
         //获取连接名
         private static string Connection
@@ -35,11 +39,11 @@ namespace sell.webapi.DataBase
         /// </summary>
         private DbConnectionFactory()
         {
-            string dbConnection =ConfigHelper.Instance.GetConfig("connStr:connectionString") ;//;"server=localhost;database=mydb;User ID=root;Password=z1s!@RlTaKHl;port=3306"
+            string dbConnection =ConfigHelper.Instance.GetConfig(CONNECTION_KEY) ;//;"server=localhost;database=mydb;User ID=root;Password=z1s!@RlTaKHl;port=3306"
             if (!string.IsNullOrEmpty(dbConnection))
             {
                 //接收：数据库类型
-                _dbType = ConfigHelper.Instance.GetConfig("connStr:providerName");
+                _dbType = ConfigHelper.Instance.GetConfig(PRIVIDERNAME_KEY);
                 //接收：数据库连接名
                 _connection = dbConnection;
             }

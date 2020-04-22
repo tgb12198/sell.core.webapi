@@ -162,7 +162,8 @@
       },
       "sell.webapi.Entity/1.0.0": {
         "dependencies": {
-          "Dapper.Contrib": "2.0.35"
+          "Dapper.Contrib": "2.0.35",
+          "sell.webapi.Common": "1.0.0"
         },
         "runtime": {
           "sell.webapi.Entity.dll": {}

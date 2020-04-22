@@ -8,13 +8,13 @@ namespace sell.webapi.Common.Enum
     public enum EnumValid
     {
         /// <summary>
-        /// 有效
+        /// 无效
         /// </summary>
         [Description("无效")]
         InValid = 0,
 
         /// <summary>
-        /// 无效
+        /// 有效
         /// </summary>
         [Description("有效")]
         Valid = 1

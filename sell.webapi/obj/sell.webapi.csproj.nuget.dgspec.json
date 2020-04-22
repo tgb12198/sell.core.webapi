@@ -160,7 +160,11 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\gtang2\\Source\\repos\\sell.core.webapi\\sell.webapi.Common\\sell.webapi.Common.csproj": {
+                "projectPath": "C:\\Users\\gtang2\\Source\\repos\\sell.core.webapi\\sell.webapi.Common\\sell.webapi.Common.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
