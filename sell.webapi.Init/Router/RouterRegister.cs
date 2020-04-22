@@ -4,8 +4,8 @@ using System.Text;
 
 namespace sell.webapi.Init.Router
 {
-    public class RouterRegister
+    public static class RouterRegister
     {
-        
+
     }
 }

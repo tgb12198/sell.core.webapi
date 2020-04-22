@@ -37,3 +37,22 @@ C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.Services\obj\Debug\net
 C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.Services\obj\Debug\netcoreapp2.1\sell.webapi.Services.csproj.CopyComplete
 C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.Services\obj\Debug\netcoreapp2.1\sell.webapi.Services.dll
 C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.Services\obj\Debug\netcoreapp2.1\sell.webapi.Services.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi.Services\bin\Debug\netcoreapp2.1\sell.webapi.Services.deps.json
+D:\Visual Studio\sell.core.webapi\sell.webapi.Services\bin\Debug\netcoreapp2.1\sell.webapi.Services.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi.Services\bin\Debug\netcoreapp2.1\sell.webapi.Services.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi.Services\bin\Debug\netcoreapp2.1\sell.webapi.Common.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi.Services\bin\Debug\netcoreapp2.1\sell.webapi.Entity.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi.Services\bin\Debug\netcoreapp2.1\sell.webapi.IRepository.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi.Services\bin\Debug\netcoreapp2.1\sell.webapi.IServices.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi.Services\bin\Debug\netcoreapp2.1\sell.webapi.Models.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi.Services\bin\Debug\netcoreapp2.1\sell.webapi.Common.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi.Services\bin\Debug\netcoreapp2.1\sell.webapi.IRepository.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi.Services\bin\Debug\netcoreapp2.1\sell.webapi.IServices.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi.Services\bin\Debug\netcoreapp2.1\sell.webapi.Models.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi.Services\bin\Debug\netcoreapp2.1\sell.webapi.Entity.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi.Services\obj\Debug\netcoreapp2.1\sell.webapi.Services.csprojAssemblyReference.cache
+D:\Visual Studio\sell.core.webapi\sell.webapi.Services\obj\Debug\netcoreapp2.1\sell.webapi.Services.AssemblyInfoInputs.cache
+D:\Visual Studio\sell.core.webapi\sell.webapi.Services\obj\Debug\netcoreapp2.1\sell.webapi.Services.AssemblyInfo.cs
+D:\Visual Studio\sell.core.webapi\sell.webapi.Services\obj\Debug\netcoreapp2.1\sell.webapi.Services.csproj.CopyComplete
+D:\Visual Studio\sell.core.webapi\sell.webapi.Services\obj\Debug\netcoreapp2.1\sell.webapi.Services.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi.Services\obj\Debug\netcoreapp2.1\sell.webapi.Services.pdb

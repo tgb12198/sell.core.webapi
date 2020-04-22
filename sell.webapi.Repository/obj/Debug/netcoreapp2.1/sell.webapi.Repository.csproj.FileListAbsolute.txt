@@ -33,3 +33,20 @@ C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.Repository\obj\Debug\n
 C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.Repository\obj\Debug\netcoreapp2.1\sell.webapi.Repository.csproj.CopyComplete
 C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.Repository\obj\Debug\netcoreapp2.1\sell.webapi.Repository.dll
 C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.Repository\obj\Debug\netcoreapp2.1\sell.webapi.Repository.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi.Repository\bin\Debug\netcoreapp2.1\sell.webapi.Repository.deps.json
+D:\Visual Studio\sell.core.webapi\sell.webapi.Repository\bin\Debug\netcoreapp2.1\sell.webapi.Repository.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi.Repository\bin\Debug\netcoreapp2.1\sell.webapi.Repository.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi.Repository\bin\Debug\netcoreapp2.1\sell.webapi.Common.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi.Repository\bin\Debug\netcoreapp2.1\sell.webapi.DataBase.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi.Repository\bin\Debug\netcoreapp2.1\sell.webapi.Entity.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi.Repository\bin\Debug\netcoreapp2.1\sell.webapi.IRepository.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi.Repository\bin\Debug\netcoreapp2.1\sell.webapi.DataBase.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi.Repository\bin\Debug\netcoreapp2.1\sell.webapi.Entity.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi.Repository\bin\Debug\netcoreapp2.1\sell.webapi.IRepository.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi.Repository\bin\Debug\netcoreapp2.1\sell.webapi.Common.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi.Repository\obj\Debug\netcoreapp2.1\sell.webapi.Repository.csprojAssemblyReference.cache
+D:\Visual Studio\sell.core.webapi\sell.webapi.Repository\obj\Debug\netcoreapp2.1\sell.webapi.Repository.AssemblyInfoInputs.cache
+D:\Visual Studio\sell.core.webapi\sell.webapi.Repository\obj\Debug\netcoreapp2.1\sell.webapi.Repository.AssemblyInfo.cs
+D:\Visual Studio\sell.core.webapi\sell.webapi.Repository\obj\Debug\netcoreapp2.1\sell.webapi.Repository.csproj.CopyComplete
+D:\Visual Studio\sell.core.webapi\sell.webapi.Repository\obj\Debug\netcoreapp2.1\sell.webapi.Repository.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi.Repository\obj\Debug\netcoreapp2.1\sell.webapi.Repository.pdb

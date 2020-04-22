@@ -25,3 +25,16 @@ C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.IServices\obj\Debug\ne
 C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.IServices\obj\Debug\netcoreapp2.1\sell.webapi.IServices.csproj.CopyComplete
 C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.IServices\obj\Debug\netcoreapp2.1\sell.webapi.IServices.dll
 C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.IServices\obj\Debug\netcoreapp2.1\sell.webapi.IServices.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi.IServices\bin\Debug\netcoreapp2.1\sell.webapi.IServices.deps.json
+D:\Visual Studio\sell.core.webapi\sell.webapi.IServices\bin\Debug\netcoreapp2.1\sell.webapi.IServices.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi.IServices\bin\Debug\netcoreapp2.1\sell.webapi.IServices.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi.IServices\bin\Debug\netcoreapp2.1\sell.webapi.Common.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi.IServices\bin\Debug\netcoreapp2.1\sell.webapi.Models.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi.IServices\bin\Debug\netcoreapp2.1\sell.webapi.Models.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi.IServices\bin\Debug\netcoreapp2.1\sell.webapi.Common.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi.IServices\obj\Debug\netcoreapp2.1\sell.webapi.IServices.csprojAssemblyReference.cache
+D:\Visual Studio\sell.core.webapi\sell.webapi.IServices\obj\Debug\netcoreapp2.1\sell.webapi.IServices.AssemblyInfoInputs.cache
+D:\Visual Studio\sell.core.webapi\sell.webapi.IServices\obj\Debug\netcoreapp2.1\sell.webapi.IServices.AssemblyInfo.cs
+D:\Visual Studio\sell.core.webapi\sell.webapi.IServices\obj\Debug\netcoreapp2.1\sell.webapi.IServices.csproj.CopyComplete
+D:\Visual Studio\sell.core.webapi\sell.webapi.IServices\obj\Debug\netcoreapp2.1\sell.webapi.IServices.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi.IServices\obj\Debug\netcoreapp2.1\sell.webapi.IServices.pdb

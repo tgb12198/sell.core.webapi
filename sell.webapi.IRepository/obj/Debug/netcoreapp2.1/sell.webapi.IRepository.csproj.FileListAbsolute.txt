@@ -23,3 +23,16 @@ C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.IRepository\obj\Debug\
 C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.IRepository\obj\Debug\netcoreapp2.1\sell.webapi.IRepository.pdb
 C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.IRepository\bin\Debug\netcoreapp2.1\sell.webapi.Common.dll
 C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi.IRepository\bin\Debug\netcoreapp2.1\sell.webapi.Common.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi.IRepository\bin\Debug\netcoreapp2.1\sell.webapi.IRepository.deps.json
+D:\Visual Studio\sell.core.webapi\sell.webapi.IRepository\bin\Debug\netcoreapp2.1\sell.webapi.IRepository.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi.IRepository\bin\Debug\netcoreapp2.1\sell.webapi.IRepository.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi.IRepository\bin\Debug\netcoreapp2.1\sell.webapi.Common.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi.IRepository\bin\Debug\netcoreapp2.1\sell.webapi.Entity.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi.IRepository\bin\Debug\netcoreapp2.1\sell.webapi.Entity.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi.IRepository\bin\Debug\netcoreapp2.1\sell.webapi.Common.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi.IRepository\obj\Debug\netcoreapp2.1\sell.webapi.IRepository.csprojAssemblyReference.cache
+D:\Visual Studio\sell.core.webapi\sell.webapi.IRepository\obj\Debug\netcoreapp2.1\sell.webapi.IRepository.AssemblyInfoInputs.cache
+D:\Visual Studio\sell.core.webapi\sell.webapi.IRepository\obj\Debug\netcoreapp2.1\sell.webapi.IRepository.AssemblyInfo.cs
+D:\Visual Studio\sell.core.webapi\sell.webapi.IRepository\obj\Debug\netcoreapp2.1\sell.webapi.IRepository.csproj.CopyComplete
+D:\Visual Studio\sell.core.webapi\sell.webapi.IRepository\obj\Debug\netcoreapp2.1\sell.webapi.IRepository.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi.IRepository\obj\Debug\netcoreapp2.1\sell.webapi.IRepository.pdb

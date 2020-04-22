@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gtang2\\Source\\repos\\sell.core.webapi\\sell.webapi.IRepository\\sell.webapi.IRepository.csproj": {}
+    "D:\\Visual Studio\\sell.core.webapi\\sell.webapi.IRepository\\sell.webapi.IRepository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gtang2\\Source\\repos\\sell.core.webapi\\sell.webapi.Common\\sell.webapi.Common.csproj": {
+    "D:\\Visual Studio\\sell.core.webapi\\sell.webapi.Common\\sell.webapi.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gtang2\\Source\\repos\\sell.core.webapi\\sell.webapi.Common\\sell.webapi.Common.csproj",
+        "projectUniqueName": "D:\\Visual Studio\\sell.core.webapi\\sell.webapi.Common\\sell.webapi.Common.csproj",
         "projectName": "sell.webapi.Common",
-        "projectPath": "C:\\Users\\gtang2\\Source\\repos\\sell.core.webapi\\sell.webapi.Common\\sell.webapi.Common.csproj",
-        "packagesPath": "C:\\Users\\gtang2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gtang2\\Source\\repos\\sell.core.webapi\\sell.webapi.Common\\obj\\",
+        "projectPath": "D:\\Visual Studio\\sell.core.webapi\\sell.webapi.Common\\sell.webapi.Common.csproj",
+        "packagesPath": "C:\\Users\\Robin\\.nuget\\packages\\",
+        "outputPath": "D:\\Visual Studio\\sell.core.webapi\\sell.webapi.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gtang2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,21 +63,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\gtang2\\Source\\repos\\sell.core.webapi\\sell.webapi.Entity\\sell.webapi.Entity.csproj": {
+    "D:\\Visual Studio\\sell.core.webapi\\sell.webapi.Entity\\sell.webapi.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gtang2\\Source\\repos\\sell.core.webapi\\sell.webapi.Entity\\sell.webapi.Entity.csproj",
+        "projectUniqueName": "D:\\Visual Studio\\sell.core.webapi\\sell.webapi.Entity\\sell.webapi.Entity.csproj",
         "projectName": "sell.webapi.Entity",
-        "projectPath": "C:\\Users\\gtang2\\Source\\repos\\sell.core.webapi\\sell.webapi.Entity\\sell.webapi.Entity.csproj",
-        "packagesPath": "C:\\Users\\gtang2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gtang2\\Source\\repos\\sell.core.webapi\\sell.webapi.Entity\\obj\\",
+        "projectPath": "D:\\Visual Studio\\sell.core.webapi\\sell.webapi.Entity\\sell.webapi.Entity.csproj",
+        "packagesPath": "C:\\Users\\Robin\\.nuget\\packages\\",
+        "outputPath": "D:\\Visual Studio\\sell.core.webapi\\sell.webapi.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gtang2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,8 +90,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\gtang2\\Source\\repos\\sell.core.webapi\\sell.webapi.Common\\sell.webapi.Common.csproj": {
-                "projectPath": "C:\\Users\\gtang2\\Source\\repos\\sell.core.webapi\\sell.webapi.Common\\sell.webapi.Common.csproj"
+              "D:\\Visual Studio\\sell.core.webapi\\sell.webapi.Common\\sell.webapi.Common.csproj": {
+                "projectPath": "D:\\Visual Studio\\sell.core.webapi\\sell.webapi.Common\\sell.webapi.Common.csproj"
               }
             }
           }
@@ -126,21 +126,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\gtang2\\Source\\repos\\sell.core.webapi\\sell.webapi.IRepository\\sell.webapi.IRepository.csproj": {
+    "D:\\Visual Studio\\sell.core.webapi\\sell.webapi.IRepository\\sell.webapi.IRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gtang2\\Source\\repos\\sell.core.webapi\\sell.webapi.IRepository\\sell.webapi.IRepository.csproj",
+        "projectUniqueName": "D:\\Visual Studio\\sell.core.webapi\\sell.webapi.IRepository\\sell.webapi.IRepository.csproj",
         "projectName": "sell.webapi.IRepository",
-        "projectPath": "C:\\Users\\gtang2\\Source\\repos\\sell.core.webapi\\sell.webapi.IRepository\\sell.webapi.IRepository.csproj",
-        "packagesPath": "C:\\Users\\gtang2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gtang2\\Source\\repos\\sell.core.webapi\\sell.webapi.IRepository\\obj\\",
+        "projectPath": "D:\\Visual Studio\\sell.core.webapi\\sell.webapi.IRepository\\sell.webapi.IRepository.csproj",
+        "packagesPath": "C:\\Users\\Robin\\.nuget\\packages\\",
+        "outputPath": "D:\\Visual Studio\\sell.core.webapi\\sell.webapi.IRepository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gtang2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -153,8 +153,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\gtang2\\Source\\repos\\sell.core.webapi\\sell.webapi.Entity\\sell.webapi.Entity.csproj": {
-                "projectPath": "C:\\Users\\gtang2\\Source\\repos\\sell.core.webapi\\sell.webapi.Entity\\sell.webapi.Entity.csproj"
+              "D:\\Visual Studio\\sell.core.webapi\\sell.webapi.Entity\\sell.webapi.Entity.csproj": {
+                "projectPath": "D:\\Visual Studio\\sell.core.webapi\\sell.webapi.Entity\\sell.webapi.Entity.csproj"
               }
             }
           }
@@ -185,7 +185,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

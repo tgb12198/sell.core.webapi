@@ -72,3 +72,39 @@ C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi\obj\Debug\netcoreapp2.
 C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi\obj\Debug\netcoreapp2.1\sell.webapi.dll
 C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi\obj\Debug\netcoreapp2.1\sell.webapi.pdb
 C:\Users\gtang2\Source\repos\sell.core.webapi\sell.webapi\obj\Debug\netcoreapp2.1\sell.webapi.genruntimeconfig.cache
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\sell.webapi.deps.json
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\sell.webapi.runtimeconfig.json
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\sell.webapi.runtimeconfig.dev.json
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\sell.webapi.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\sell.webapi.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\sell.webapi.Common.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\sell.webapi.DataBase.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\sell.webapi.Entity.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\sell.webapi.Init.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\sell.webapi.IRepository.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\sell.webapi.IServices.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\sell.webapi.Models.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\sell.webapi.Repository.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\sell.webapi.Services.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\sell.webapi.Common.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\sell.webapi.Init.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\sell.webapi.DataBase.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\sell.webapi.Entity.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\sell.webapi.IRepository.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\sell.webapi.IServices.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\sell.webapi.Models.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\sell.webapi.Repository.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi\bin\Debug\netcoreapp2.1\sell.webapi.Services.pdb
+D:\Visual Studio\sell.core.webapi\sell.webapi\obj\Debug\netcoreapp2.1\sell.webapi.csprojAssemblyReference.cache
+D:\Visual Studio\sell.core.webapi\sell.webapi\obj\Debug\netcoreapp2.1\sell.webapi.RazorAssemblyInfo.cache
+D:\Visual Studio\sell.core.webapi\sell.webapi\obj\Debug\netcoreapp2.1\sell.webapi.RazorAssemblyInfo.cs
+D:\Visual Studio\sell.core.webapi\sell.webapi\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Visual Studio\sell.core.webapi\sell.webapi\obj\Debug\netcoreapp2.1\sell.webapi.AssemblyInfoInputs.cache
+D:\Visual Studio\sell.core.webapi\sell.webapi\obj\Debug\netcoreapp2.1\sell.webapi.AssemblyInfo.cs
+D:\Visual Studio\sell.core.webapi\sell.webapi\obj\Debug\netcoreapp2.1\sell.webapi.RazorTargetAssemblyInfo.cache
+D:\Visual Studio\sell.core.webapi\sell.webapi\obj\Debug\netcoreapp2.1\sell.webapi.csproj.CopyComplete
+D:\Visual Studio\sell.core.webapi\sell.webapi\obj\Debug\netcoreapp2.1\sell.webapi.dll
+D:\Visual Studio\sell.core.webapi\sell.webapi\obj\Debug\netcoreapp2.1\sell.webapi.pdb
